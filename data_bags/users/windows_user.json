@@ -1,0 +1,8 @@
+{
+	"id": "windows_user",
+	"comment": "windows user name",
+	"uid": 101,
+	"gid": 1,
+	"home": "/home/windows_user",
+	"platform": "windows"
+}
